@@ -109,6 +109,7 @@ and returns the score at each pont in the game, like so:
 Final Score: awayTeam - homeTeam */
 
 function scoreboard(getFinalScore, innCallBack, num1){
+  function  helologit 
   
   return {home, away};
 }
